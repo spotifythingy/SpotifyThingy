@@ -1,0 +1,7 @@
+name: SpotifyThingy
+version: '${project.version}'
+main: me.aroze.spotifythingy.SpotifyThingy
+api-version: 1.19
+authors: [ Aroze ]
+description: Allows for player Spotify integration
+website: aroze.me
